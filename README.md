@@ -1,2 +1,4 @@
 # py-webscraper
-Amazon web scraper directed into a CSV file
+Amazon web scraper 
+-Data scraped is directed into a CSV file
+-Uses multithreading
